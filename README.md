@@ -12,7 +12,7 @@ Please kindly cite the papers if this code is useful and helpful for your resear
 D. Kong, J. Zhang, S. Zhang, X. Yu and F. A. Prodhan, "MHIAIFormer: Multihead Interacted and Adaptive Integrated Transformer With Spatial-Spectral Attention for Hyperspectral Image Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 17, pp. 14486-14501, 2024, doi: 10.1109/JSTARS.2024.3441111.
 
 
-<@ARTICLE{10632582,
+> @ARTICLE{10632582,
   author={Kong, Delong and Zhang, Jiahua and Zhang, Shichao and Yu, Xiang and Prodhan, Foyez Ahmed},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={MHIAIFormer: Multihead Interacted and Adaptive Integrated Transformer With Spatial-Spectral Attention for Hyperspectral Image Classification}, 
@@ -22,4 +22,3 @@ D. Kong, J. Zhang, S. Zhang, X. Yu and F. A. Prodhan, "MHIAIFormer: Multihead In
   pages={14486-14501},
   keywords={Transformers;Feature extraction;Data mining;Attention mechanisms;Adaptation models;Deep learning;Hyperspectral imaging;Image classification;Deep learning (DL);hyperspectral image (HSI) classification;multihead interacted and adaptive integrated transformer (MHIAIFormer);multihead self-attention (MHSA)},
   doi={10.1109/JSTARS.2024.3441111}}
->
